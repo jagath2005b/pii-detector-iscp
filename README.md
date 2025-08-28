@@ -29,7 +29,10 @@ It identifies and masks sensitive fields such as **phone numbers, Aadhaar IDs, p
 ### 🔹 Observability and Compliance
 - Provides **telemetry metrics** (detection counts, latency, false positive samples).  
 - Maintains **secure, masked audit logs** for tuning, compliance audits, and investigations.  
-- Allows **centralized management** of field allow/deny lists and configuration flags.  
+- Allows **centralized management** of field allow/deny lists and configuration flags.
+  
+### 🔹 OutPut
+<img width="630" height="196" alt="Screenshot 2025-08-28 131918" src="https://github.com/user-attachments/assets/55f970af-9760-4841-9d49-a5d8d4a69378" />
 
 ---
 
